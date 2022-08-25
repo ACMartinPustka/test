@@ -1,1 +1,1 @@
-# test
+Návod k používání
