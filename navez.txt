@@ -1,2 +1,5 @@
 Změna v souboru z webu
-Provádím změny
+
+Provádím změny z mainu
+Změny provedeny z nova_vetvicka
+
